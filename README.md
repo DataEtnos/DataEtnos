@@ -2,7 +2,7 @@
 
 ###
 
-- Analistas de Dados . <br> - Tenho experiencia como Analista de Kpis performace pelo Grupo IHS.<br> - Experiência com Excel , Porwer Bi , SQL e Python.<br> - Formado como Analista de Dados pela Escola DNC <br> - Amante de Quadrinhos , Basqueteball e a Cultura Geek em geral.</p>
+ - Analistas de Dados . <br>  Tenho experiencia como Analista de Kpis performace pelo Grupo IHS.<br>  Experiência com Excel , Porwer Bi , SQL e Python.<br>  Formado como Analista de Dados pela Escola DNC <br>  Amante de Quadrinhos , Basqueteball e a Cultura Geek em geral.</p>
 
 ###
 

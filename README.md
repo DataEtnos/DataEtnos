@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">-  Formando em Tecnico em Logística  pelo Senac . <br> -  Na area de logistica atuei até  chegar ao cargo de coordenador de Logistica na empresa Dress and Go<br> -  Estudante de Ciência de Dados pela Escola DNC. <br> -  Tenho experiencia como Analista de Kpis performace pelo Grupo IHS.<br> -  Experiência com Excel , Porwer Bi , SQL e Python.<br> -  Formado como Analista de Dados pela Escola DNC <br> -  Amante de Quadrinhos , Basqueteball e a Cultura Geek em geral.</p>
+ Analistas de Dados . <br> -  Tenho experiencia como Analista de Kpis performace pelo Grupo IHS.<br> -  Experiência com Excel , Porwer Bi , SQL e Python.<br> -  Formado como Analista de Dados pela Escola DNC <br> -  Amante de Quadrinhos , Basqueteball e a Cultura Geek em geral.</p>
 
 ###
 

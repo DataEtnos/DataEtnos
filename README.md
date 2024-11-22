@@ -4,11 +4,11 @@
 
 ###
 - **Técnico em Logística** formado pelo Senac, com experiência como **Analista de Estoque e Logística** na empresa **Dress & Go**.
-- **Estudante de Ciência de Dados** pela Escola DNC, com foco em transformar dados em insights estratégicos.
+- **Analista e Cientista de Dados** formado pela Escola DNC, com foco em transformar dados em insights estratégicos.
 - **Analista de Dados Júnior** no **Grupo IHS**, com experiência em monitoramento e análise de dados de desempenho.
 - Proficiência em ferramentas como **Excel, Power BI, SQL e Python**, com aplicabilidade em diversas áreas de análise e visualização de dados.
-- **Formado como Analista de Dados** pela Escola DNC, com sólidos conhecimentos em análise estatística, machine learning e visualização de dados.
 - Apaixonado por **quadrinhos, basquete** e a **cultura geek** em geral, sempre em busca de novas inspirações tanto no trabalho quanto nas minhas paixões pessoais.
+
 
  
 ![Descrição do GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFvZ3ZqeDZldWFnbGF4a2pkZHJtd2h1OTBvM3k0NXl3d2I4NnM3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp)
